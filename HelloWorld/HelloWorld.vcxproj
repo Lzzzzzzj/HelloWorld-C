@@ -19,9 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="bookwork.c" />
     <ClCompile Include="constant.c" />
     <ClCompile Include="ex1.c" />
     <ClCompile Include="hello_word.c" />
+    <ClCompile Include="leetcode01.c" />
+    <ClCompile Include="leetcode02.c" />
+    <ClCompile Include="test.c" />
+    <ClCompile Include="var_test1.c" />
+    <ClCompile Include="var_test3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

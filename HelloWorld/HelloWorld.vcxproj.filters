@@ -24,5 +24,23 @@
     <ClCompile Include="ex1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="var_test1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bookwork.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="var_test3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
